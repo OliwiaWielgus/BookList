@@ -23,5 +23,6 @@ When you choose to inspect an item, the console displays the objects you clicked
 ## Setup
 To start the project, enter npm start in the terminal.
 ## Code Examples
-Example of using a react on the start page
+Example of using a react on the start page.
+
 ![P5](https://scontent-waw1-1.xx.fbcdn.net/v/t1.15752-9/138462545_137200274880402_4953626045942318597_n.png?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_ohc=K4X_rF7ttg0AX80_b1a&_nc_ht=scontent-waw1-1.xx&oh=913bae76ba9ad2c2d6b06cbbe3a7f14e&oe=60263B74)
